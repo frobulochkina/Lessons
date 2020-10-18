@@ -1,4 +1,4 @@
-package job4jExercises;
+package job4jExercises.branchOperator;
 
 public class LeapYear {
     public static boolean checkYear(int year) {

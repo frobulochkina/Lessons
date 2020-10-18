@@ -1,4 +1,4 @@
-package job4jExercises;
+package job4jExercises.branchOperator;
 
 public class FizzBuzz {
     public static String checkNumber(int number) {

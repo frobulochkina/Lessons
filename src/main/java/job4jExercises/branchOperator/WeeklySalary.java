@@ -1,4 +1,4 @@
-package job4jExercises;
+package job4jExercises.branchOperator;
 
 import java.util.Arrays;
 

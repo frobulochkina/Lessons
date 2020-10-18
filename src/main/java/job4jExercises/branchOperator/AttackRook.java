@@ -1,4 +1,4 @@
-package job4jExercises;
+package job4jExercises.branchOperator;
 
 public class AttackRook {
     public static boolean check(String left, String right) {
