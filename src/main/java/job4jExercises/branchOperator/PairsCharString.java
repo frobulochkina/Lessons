@@ -1,4 +1,4 @@
-package job4jExercises;
+package job4jExercises.branchOperator;
 
 public class PairsCharString {
     public static boolean check(String l, String r) {

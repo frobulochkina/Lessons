@@ -1,4 +1,4 @@
-package job4jExercises;
+package job4jExercises.branchOperator;
 
 public class Game {
     public static int checkGame(double percent, int prize, int pay) {

@@ -1,4 +1,4 @@
-package job4jExercises;
+package job4jExercises.branchOperator;
 
 public class ArithmeticActions {
     public static String selectAction(int left, int right, int rsl) {
